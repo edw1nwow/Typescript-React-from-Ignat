@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Typescript-React-from-Ignat/static/css/main.a727a99d.chunk.css",
+    "main.js": "/Typescript-React-from-Ignat/static/js/main.559b20e4.chunk.js",
+    "main.js.map": "/Typescript-React-from-Ignat/static/js/main.559b20e4.chunk.js.map",
+    "runtime-main.js": "/Typescript-React-from-Ignat/static/js/runtime-main.e82d9f44.js",
+    "runtime-main.js.map": "/Typescript-React-from-Ignat/static/js/runtime-main.e82d9f44.js.map",
+    "static/js/2.6f3c9da1.chunk.js": "/Typescript-React-from-Ignat/static/js/2.6f3c9da1.chunk.js",
+    "static/js/2.6f3c9da1.chunk.js.map": "/Typescript-React-from-Ignat/static/js/2.6f3c9da1.chunk.js.map",
+    "index.html": "/Typescript-React-from-Ignat/index.html",
+    "precache-manifest.be31598a787a9cf0e02e2ea7f65ec4c2.js": "/Typescript-React-from-Ignat/precache-manifest.be31598a787a9cf0e02e2ea7f65ec4c2.js",
+    "service-worker.js": "/Typescript-React-from-Ignat/service-worker.js",
+    "static/css/main.a727a99d.chunk.css.map": "/Typescript-React-from-Ignat/static/css/main.a727a99d.chunk.css.map",
+    "static/js/2.6f3c9da1.chunk.js.LICENSE.txt": "/Typescript-React-from-Ignat/static/js/2.6f3c9da1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e82d9f44.js",
+    "static/js/2.6f3c9da1.chunk.js",
+    "static/css/main.a727a99d.chunk.css",
+    "static/js/main.559b20e4.chunk.js"
+  ]
+}
