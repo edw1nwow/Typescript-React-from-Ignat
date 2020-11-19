@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a763ef14317f449a248c0d240d742ba",
+    "revision": "a14a0dc6217dd96bb03c92f5568593f5",
     "url": "/Typescript-React-from-Ignat/index.html"
   },
   {
-    "revision": "def9837e4b77cc050142",
+    "revision": "25144e4d66e80772a789",
     "url": "/Typescript-React-from-Ignat/static/css/main.d4c14568.chunk.css"
   },
   {
-    "revision": "d79b2fd2f16903999b79",
-    "url": "/Typescript-React-from-Ignat/static/js/2.89e20703.chunk.js"
+    "revision": "4b9a6141a6c18ca0b849",
+    "url": "/Typescript-React-from-Ignat/static/js/2.b2fe3087.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/Typescript-React-from-Ignat/static/js/2.89e20703.chunk.js.LICENSE.txt"
+    "url": "/Typescript-React-from-Ignat/static/js/2.b2fe3087.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "def9837e4b77cc050142",
-    "url": "/Typescript-React-from-Ignat/static/js/main.ba49ab75.chunk.js"
+    "revision": "25144e4d66e80772a789",
+    "url": "/Typescript-React-from-Ignat/static/js/main.04ec737a.chunk.js"
   },
   {
     "revision": "029d7b3e104e93813522",
