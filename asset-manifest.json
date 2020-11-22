@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Typescript-React-from-Ignat/static/css/main.d4c14568.chunk.css",
-    "main.js": "/Typescript-React-from-Ignat/static/js/main.04ec737a.chunk.js",
-    "main.js.map": "/Typescript-React-from-Ignat/static/js/main.04ec737a.chunk.js.map",
+    "main.js": "/Typescript-React-from-Ignat/static/js/main.507ab866.chunk.js",
+    "main.js.map": "/Typescript-React-from-Ignat/static/js/main.507ab866.chunk.js.map",
     "runtime-main.js": "/Typescript-React-from-Ignat/static/js/runtime-main.e82d9f44.js",
     "runtime-main.js.map": "/Typescript-React-from-Ignat/static/js/runtime-main.e82d9f44.js.map",
     "static/js/2.b2fe3087.chunk.js": "/Typescript-React-from-Ignat/static/js/2.b2fe3087.chunk.js",
     "static/js/2.b2fe3087.chunk.js.map": "/Typescript-React-from-Ignat/static/js/2.b2fe3087.chunk.js.map",
     "index.html": "/Typescript-React-from-Ignat/index.html",
-    "precache-manifest.ac9ea99e60096831de06d6136208779e.js": "/Typescript-React-from-Ignat/precache-manifest.ac9ea99e60096831de06d6136208779e.js",
+    "precache-manifest.70dd45d11dcc8f72b92441a4507c1fde.js": "/Typescript-React-from-Ignat/precache-manifest.70dd45d11dcc8f72b92441a4507c1fde.js",
     "service-worker.js": "/Typescript-React-from-Ignat/service-worker.js",
     "static/css/main.d4c14568.chunk.css.map": "/Typescript-React-from-Ignat/static/css/main.d4c14568.chunk.css.map",
     "static/js/2.b2fe3087.chunk.js.LICENSE.txt": "/Typescript-React-from-Ignat/static/js/2.b2fe3087.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e82d9f44.js",
     "static/js/2.b2fe3087.chunk.js",
     "static/css/main.d4c14568.chunk.css",
-    "static/js/main.04ec737a.chunk.js"
+    "static/js/main.507ab866.chunk.js"
   ]
 }
