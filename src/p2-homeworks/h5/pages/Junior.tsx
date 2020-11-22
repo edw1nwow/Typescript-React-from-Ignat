@@ -1,9 +1,10 @@
 import React from "react";
+import HW6 from "../../h6/HW6";
 
 function Junior() {
     return (
         <div>
-            <h1>HELLO I'M JUNIOR</h1>
+            <HW6 />
         </div>
     );
 }
